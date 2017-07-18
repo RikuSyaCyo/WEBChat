@@ -1,0 +1,24 @@
+body {
+  min-height: 2000px;
+  padding-top: 70px;
+  background-color: #333333;
+}
+#portrait{
+	position:absolute;
+	top:5px;
+	left:1350px;
+	width:40px;
+}
+.inchat{
+	background-color: #5cb85c;
+	border-radius:5px;
+	padding:8px;
+	font-size: 17px;
+	color:white;
+	float:left;
+	margin-top:5px;
+}
+.panel .panel-default{
+	padding-left: 5px;
+	padding-right: 5px;
+}
